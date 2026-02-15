@@ -1,2 +1,2 @@
-# personal-fianance-calculator
-Python-based finance calculator - my first project
+#simple and compound interest calculator
+Python simple and compound interest - my first projects
